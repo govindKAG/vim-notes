@@ -89,3 +89,5 @@
 - :shell gets you an interactive shell instance from vim direclty. You can quit it by saying ctrl+d
 
 - in command mode press ctrl+r followed by ctrl + w to paste the word that is below the cursor
+
+-  when opening large files switch to absolute line numberings since relative/hybrid line numbering can cause vim to lag,
