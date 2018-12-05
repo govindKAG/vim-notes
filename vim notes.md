@@ -91,3 +91,9 @@
 - in command mode press ctrl+r followed by ctrl + w to paste the word that is below the cursor
 
 -  when opening large files switch to absolute line numberings since relative/hybrid line numbering can cause vim to lag,
+
+- it is possible to give some starting commands to vim when launching it from the command line withe the -c flag. The example below will start vim with the list option enabled.
+```
+vim -c ":set list"
+```
+
