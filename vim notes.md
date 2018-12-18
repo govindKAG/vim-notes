@@ -1,4 +1,4 @@
-# vim notes
+ vim notes
 
 ## movement and editing
 
@@ -93,7 +93,7 @@
 -  when opening large files switch to absolute line numberings since relative/hybrid line numbering can cause vim to lag,
 
 - it is possible to give some starting commands to vim when launching it from the command line withe the -c flag. The example below will start vim with the list option enabled.
-```
-vim -c ":set list"
-```
-
+        ```
+        vim -c ":set list"
+        ```
+- use ggg?G to obscure the text of a document
