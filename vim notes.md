@@ -43,6 +43,8 @@
 
 - gu | gU | g~(toggle) with motions can be used to mess with the case
 
+- use u,U or ~ to mess with the case of a visual selection
+
 - use ctrl + x and ctrl + a to decrement | increment numbers under the cursor
 
 
