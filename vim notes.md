@@ -56,6 +56,8 @@
 
 - vim has builtin support for text expansion, just say :ab x y  to define an abreiviation, x will be replaced with y as soon as you type it
 
+- gq{motion} formats the selection according to the formatexpr, for insantce you can map autopep8 as formatexpr for python files and gq can be used to pep8-ify a seleciton.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
