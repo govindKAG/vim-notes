@@ -1,5 +1,6 @@
 - :x
 - gg and G
+- in and out of the stack
 - vs and sp
 - undo and redo
 - -R
@@ -11,7 +12,6 @@
 - searching 
 - f F t T ;,
 - setting up for python
-- in and out of the stack
 - shell commands 
 - launching a shell
 - opening lines 
