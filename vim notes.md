@@ -105,3 +105,5 @@
 - use ctrl+w [count] + or - to decrease or increase the size of the current window up and down and < or > for left and right 
 
 - use ctrl + w = to make all the windows the same size.
+
+- in command mode type :py3 followed by a python snippet to execute it inline, good for small calculations and such
