@@ -100,7 +100,7 @@
         ```
         vim -c ":set list"
         ```
-- use ggg?G to obscure the text of a document
+- use g?{motion} to obscure the text of a document
 
 - use ctrl+w [count] + or - to decrease or increase the size of the current window up and down and < or > for left and right 
 
