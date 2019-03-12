@@ -4,6 +4,8 @@
 - vs and sp
 - undo and redo
 - -R
+- the vimrc file and how it works
+- leader keys and remapping keys
 - hlsearch incsearch ignorecase and smartcase
 - set nu
 - ctrl + a and ctrl + x 
