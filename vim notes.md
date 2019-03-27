@@ -58,6 +58,10 @@
 
 - gq{motion} formats the selection according to the formatexpr, for insantce you can map autopep8 as formatexpr for python files and gq can be used to pep8-ify a seleciton.
 
+- ctrl + c puts you in normal mode when in insert mode.
+
+- always use set so=999. Keeps the cursorline centered at all times.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
