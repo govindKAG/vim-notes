@@ -47,7 +47,6 @@
 
 - use ctrl + x and ctrl + a to decrement | increment numbers under the cursor
 
-
 - in insert mode simply press ctrl + r and then a register name to paste from that register
 
 - :.!<shell command> puts the result in the current window
