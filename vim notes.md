@@ -61,6 +61,8 @@
 
 - always use set so=999. Keeps the cursorline centered at all times.
 
+- always install the vim-repeat plugin by tpope. It supercharges the . repeat function.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
