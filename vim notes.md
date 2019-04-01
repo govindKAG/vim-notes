@@ -63,6 +63,8 @@
 
 - always install the vim-repeat plugin by tpope. It supercharges the . repeat function.
 
+- use K to summon the man page for the word under the cursor in insert mode.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
