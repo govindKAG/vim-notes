@@ -65,6 +65,8 @@
 
 - use K to summon the man page for the word under the cursor in insert mode.
 
+- surround.vim can be used in visual mode. S followed by surround char will surround a visual selection.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
