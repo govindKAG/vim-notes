@@ -17,6 +17,7 @@
 - opening lines 
 - changing case
 - abbreiviations using :ab 
+- using ctrl + z and fg to suspend vim and get back to where you were 
 
 -------
 
