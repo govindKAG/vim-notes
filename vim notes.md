@@ -89,6 +89,8 @@
 
 - once you do a f F t T you can use ; or , to repeat the last one (in forward and reverse direction respectively)
 
+- to repeat the last search just hit n/N.
+
 ## visual mode
 
 - use o to move to the other end of the visual block
