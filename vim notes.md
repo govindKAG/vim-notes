@@ -91,6 +91,8 @@
 
 - to repeat the last search just hit n/N.
 
+- use :g/<pattern>/# to show all lines containing the pattern along with their line numbers
+
 ## visual mode
 
 - use o to move to the other end of the visual block
