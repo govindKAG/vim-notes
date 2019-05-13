@@ -69,6 +69,8 @@
 
 - when in insert mode use shift + enter to enter a line above the current line and stay exactly where you are.
 
+- use ctrl + x ctrl + f to enter file completion mode.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
