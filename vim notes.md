@@ -126,3 +126,5 @@
 - in command mode type :py3 followed by a python snippet to execute it inline, good for small calculations and such
 
 - use :w !diff % - to see changes since last save.
+
+- when in bash/zsh use ctrl+x ctrl+e to edit the current command in vim
