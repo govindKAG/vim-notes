@@ -63,7 +63,7 @@
 
 - always install the vim-repeat plugin by tpope. It supercharges the . repeat function.
 
-- use K to summon the man page for the word under the cursor in insert mode.
+- use K to summon the man page for the word under the cursor in normal mode.
 
 - surround.vim can be used in visual mode. S followed by surround char will surround a visual selection.
 
