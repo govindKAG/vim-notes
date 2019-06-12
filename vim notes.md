@@ -138,3 +138,5 @@
     - bash : set -o vi 
 
     - zsh  : bindkey -v
+
+- vim can read from stdin. To pipe stdin into vim use "<command> | vim - " 
