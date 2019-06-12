@@ -134,5 +134,7 @@
 - when it comes to executing code from within vim, the vim-slime plugin seems to be the way to go. It is just slinging text back and forth between tmux panes, an easy to understand model that is very flexible and keeps the focus on vim.
 
 - most shells have support for vi style keybindings even though the default is set to emacs.
-        - bash : set -o vi 
-        - zsh  : bindkey -v
+
+    - bash : set -o vi 
+
+    - zsh  : bindkey -v
