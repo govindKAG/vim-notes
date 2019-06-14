@@ -140,3 +140,5 @@
     - zsh  : bindkey -v
 
 - vim can read from stdin. To pipe stdin into vim use "<command> | vim - " 
+
+- you can check the current value of any setting by saying "set <settings>?"
