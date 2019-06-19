@@ -75,6 +75,8 @@
 
 - use ctrl + s <surround> to create pairs of surrounds when using surround.vim. use stty -ixon to prevent the terminal from freezing.
 
+- user ctrl + s ctrl + s <surround> to automatically pair indent and newline a surround char.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
