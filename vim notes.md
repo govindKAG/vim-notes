@@ -73,6 +73,8 @@
 
 - use set cursorbind to move cursors in multiple splits at once.
 
+- use ctrl + s <surround> to create pairs of surrounds when using surround.vim. use stty -ixon to prevent the terminal from freezing.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
