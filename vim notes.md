@@ -2,7 +2,7 @@
 
 ## movement and editing
 
-- use w and e to move by words instead of characters. w moves to the beginning of the next word and e to the end of the next word
+- use w and e to move by words instead of characters. w moves to the beginning of the next word and e to the end of the current word
 
 - moving the screen instead of the cursor can be useful.
 
