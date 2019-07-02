@@ -77,6 +77,8 @@
 
 - user ctrl + s ctrl + s <surround> to automatically pair indent and newline a surround char.
 
+- = trigger vim's indentation features. Takes motions.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
