@@ -154,3 +154,5 @@
 - use import readline; readline.parse_and_bind("set editing-mode vi") to get vi bindings in a python shell
 
 - use q: to enter command mode. Here you get full vim controls to edit and run a : comnmand. If already in a : command hit ctrl + F
+
+- from a shell use vim -o to open multiple files in splits. use -O for vsplits.
