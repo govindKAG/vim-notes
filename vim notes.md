@@ -105,6 +105,8 @@
 
 - use :g/<pattern>/# to show all lines containing the pattern along with their line numbers
 
+- use q/ to enter search command line mode. Just like q: you can get full vim editing controls. 
+
 ## visual mode
 
 - use o to move to the other end of the visual block
@@ -151,4 +153,4 @@
 
 - use import readline; readline.parse_and_bind("set editing-mode vi") to get vi bindings in a python shell
 
-- use q: to enter command mode. Here you get full vim controls to edit and run a : comnmand.
+- use q: to enter command mode. Here you get full vim controls to edit and run a : comnmand. If already in a : command hit ctrl + F
