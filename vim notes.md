@@ -148,3 +148,5 @@
 - vim can read from stdin. To pipe stdin into vim use "<command> | vim - " 
 
 - you can check the current value of any setting by saying "set <settings>?"
+
+- use import readline; readline.parse_and_bind("set editing-mode vi") to get vi bindings in a python shell
