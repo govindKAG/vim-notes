@@ -150,3 +150,5 @@
 - you can check the current value of any setting by saying "set <settings>?"
 
 - use import readline; readline.parse_and_bind("set editing-mode vi") to get vi bindings in a python shell
+
+- use q: to enter command mode. Here you get full vim controls to edit and run a : comnmand.
