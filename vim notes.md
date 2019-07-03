@@ -156,3 +156,5 @@
 - use q: to enter command mode. Here you get full vim controls to edit and run a : comnmand. If already in a : command hit ctrl + F
 
 - from a shell use vim -o to open multiple files in splits. use -O for vsplits.
+
+- use :qa to quit all open splits at once
