@@ -79,6 +79,8 @@
 
 - = trigger vim's indentation features. Takes motions.
 
+- vim has an easy mode, launched with the -y arg. It defaults and stays in insert mode, to get to normal mode use ctrl + l.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
