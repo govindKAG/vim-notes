@@ -1,1 +1,1 @@
-Various tips and tricks I have picked over the years.
+Various tips and tricks I have picked up over the years.
