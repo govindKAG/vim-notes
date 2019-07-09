@@ -160,3 +160,5 @@
 - from a shell use vim -o to open multiple files in splits. use -O for vsplits.
 
 - use :qa to quit all open splits at once
+
+- vim slime can be used for quickly capturing code snippets by having another vim instance as the target pane
