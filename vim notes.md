@@ -81,6 +81,8 @@
 
 - vim has an easy mode, launched with the -y arg. It defaults and stays in insert mode, to get to normal mode use ctrl + l.
 
+- use :normal {keystrokes} to apply those keystrokes as they would in normal to every line of a visual selection.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
