@@ -164,3 +164,5 @@
 - use :qa to quit all open splits at once
 
 - vim slime can be used for quickly capturing code snippets by having another vim instance as the target pane
+
+- sort! sorts in reverse, sort u removes duplicates, sort n sorts numerically.
