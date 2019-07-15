@@ -83,6 +83,8 @@
 
 - use :normal {keystrokes} to apply those keystrokes as they would in normal to every line of a visual selection.
 
+- g_ moves to the last non blank char in a line
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
