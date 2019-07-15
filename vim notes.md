@@ -113,6 +113,10 @@
 
 - use q/ to enter search command line mode. Just like q: you can get full vim editing controls. 
 
+- \s matches the first non blank char.
+
+- g/pattern/norm <command> applies that norm command to all lines matching the pattern.
+
 ## visual mode
 
 - use o to move to the other end of the visual block
