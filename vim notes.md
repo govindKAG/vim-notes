@@ -85,6 +85,8 @@
 
 - g_ moves to the last non blank char in a line
 
+- J or :j mergest lines. Takes motions and ranges.
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
