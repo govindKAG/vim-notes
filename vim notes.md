@@ -115,9 +115,12 @@
 
 - use q/ to enter search command line mode. Just like q: you can get full vim editing controls. 
 
+- oddly enough in regex ^ matches the first col not the first non blank char like in normal mode.
+
 - \s matches the first non blank char.
 
 - g/pattern/norm <command> applies that norm command to all lines matching the pattern.
+
 
 ## visual mode
 
