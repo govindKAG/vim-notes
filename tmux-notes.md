@@ -13,3 +13,8 @@ My leader = ctrl + B
 - leader + ctrl + up/down/left/right arrow to resize splits.
 - leader + ctrl + o rotate panes counter clockwise.
 - leader + q lists the pane number.
+
+## command mode
+
+- leader + : enteres tmux's command mode 
+- swap-pane -s pane_no -t pane_no swaps the two panes.
