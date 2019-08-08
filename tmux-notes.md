@@ -8,11 +8,12 @@ My leader = ctrl + B
 - leader + c creates one.
 - leader + 0-9 switches to a window .
 
-## splits
+## panes
 
 - leader + ctrl + up/down/left/right arrow to resize splits.
 - leader + ctrl + o rotate panes counter clockwise.
 - leader + q lists the pane number.
+- leader + z toggles fulscreen for current pane
 
 ## command mode
 
