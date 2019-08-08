@@ -7,6 +7,7 @@ My leader = ctrl + B
 - leader + w lists all windows .
 - leader + c creates one.
 - leader + 0-9 switches to a window .
+- leader + l switches to last used window, analagous to alt-tabbing.
 
 ## panes
 
