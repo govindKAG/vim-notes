@@ -87,6 +87,8 @@
 
 - J or :j mergest lines. Takes motions and ranges.
 
+- @@ repeats the last applied macro
+
 ## folding
 
 - zf and zd to create delete code folds. Useful to fold out imports or some other code noise.
