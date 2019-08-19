@@ -123,6 +123,12 @@
 
 - g/pattern/norm <command> applies that norm command to all lines matching the pattern.
 
+- use :ij <term> to jump to the first instance of term that is not in a comment.
+
+- use :ij! <term> to jump to the first instance of that term.
+
+- use gD to search from the beginning of the file for the word under the cursor.
+
 
 ## visual mode
 
@@ -180,7 +186,4 @@
 
 - sort! sorts in reverse, sort u removes duplicates, sort n sorts numerically.
 
-- use :ij <term> to jump to the first instance of term that is not in a comment
-
-- use :ij! <term> to jump to the first instance of that term.
 
