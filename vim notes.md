@@ -179,3 +179,8 @@
 - vim slime can be used for quickly capturing code snippets by having another vim instance as the target pane
 
 - sort! sorts in reverse, sort u removes duplicates, sort n sorts numerically.
+
+- use :ij <term> to jump to the first instance of term that is not in a comment
+
+- use :ij! <term> to jump to the first instance of that term.
+
