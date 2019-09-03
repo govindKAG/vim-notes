@@ -136,6 +136,8 @@
 
 - use gv to reselect the last section
 
+- use g ctrl+g to count lines in a visual selection
+
 ## misc
 
 - in any bash type set -o vi to get vi style bindings
