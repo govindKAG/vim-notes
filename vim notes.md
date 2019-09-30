@@ -188,4 +188,6 @@
 
 - sort! sorts in reverse, sort u removes duplicates, sort n sorts numerically.
 
+- use w3m.vim to browse webpages without leaving vim.
+
 
