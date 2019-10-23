@@ -190,4 +190,6 @@
 
 - use w3m.vim to browse webpages without leaving vim.
 
+- use :%s/\s\+$//e to remove trailing whitespaces
+
 
