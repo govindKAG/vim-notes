@@ -192,4 +192,6 @@
 
 - use :%s/\s\+$//e to remove trailing whitespaces
 
+- use vimdiff <files> to use vim as a diff tool.
+
 
