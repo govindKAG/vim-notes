@@ -194,4 +194,5 @@
 
 - use vimdiff <files> to use vim as a diff tool.
 
+- in vimdiff mode use dp and do to put and obtain diffs from one split to another.
 
