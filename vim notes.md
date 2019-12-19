@@ -196,3 +196,4 @@
 
 - in vimdiff mode use dp and do to put and obtain diffs from one split to another.
 
+- in vimdiff use [c and ]c to move a diff at a time
