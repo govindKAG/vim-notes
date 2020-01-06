@@ -20,3 +20,11 @@ My leader = ctrl + B
 
 - leader + : enteres tmux's command mode 
 - swap-pane -s pane_no -t pane_no swaps the two panes.
+
+## copy mode
+
+- enter copy mode using leader + [.
+- most vim controls work in copy mode including line and block visual mode.
+- start text selection by hitting space.
+- yank selected text using space 
+- leader + ] pastes from the tmux clipboard.
