@@ -28,3 +28,4 @@ My leader = ctrl + B
 - start text selection by hitting space.
 - yank selected text using space 
 - leader + ] pastes from the tmux clipboard.
+- q quits copy mode.
